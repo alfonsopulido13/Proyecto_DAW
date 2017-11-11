@@ -1,0 +1,62 @@
+.form-group.last { 
+	margin-bottom:10px;
+}
+
+.containerc {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.col-sm-9 {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.panel-default {
+	opacity: 0.8;
+	margin-top: 20px;
+
+}
+
+@media (max-width: 992px) {
+	.content-block {
+		width: 80%!important;
+		
+	}
+	.containerc {
+		width: 90%;
+	}
+	p {
+		font-size: .9em;
+	}
+}
+
+
+.well-sm {
+	background-color: #fff;
+}
+
+.btn.btn-success {
+	background-color: #000000 !important;
+	color: #FFFFFF !important;
+	width: 35%;
+	border-color: #000000 !important;
+}
+
+.form-block{
+	margin: auto;
+	background-color: #fff;
+}
+
+
+
+.form-group {
+	width: 100%;
+}
+
+input, label, button, a, .panel-footer {
+	font-family: 'Narkisim';
+}
